@@ -1,6 +1,6 @@
 # Unemployment in the US
 
-##Overview
+## Overview
 This project aims to analyze unemployment trends in the United States using data from the Federal Reserve Economic Data (FRED). 
 The analysis covers various aspects of unemployment, including the overall unemployment rate, participation rate across different states, and a detailed breakdown of unemployment among different gender and age groups. Additionally, the project examines the correlation between unemployment and various economic indicators.
 
